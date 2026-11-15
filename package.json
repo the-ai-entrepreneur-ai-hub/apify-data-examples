@@ -1,0 +1,9 @@
+{
+  "name": "apify-data-examples",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "apify-client": "^2"
+  }
+}

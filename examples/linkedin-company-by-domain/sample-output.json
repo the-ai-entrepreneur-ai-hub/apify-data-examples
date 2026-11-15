@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "example.com",
+    "companyName": "Example Corp",
+    "linkedinUrl": "https://www.linkedin.com/company/example-corp",
+    "confidence": "high",
+    "method": "placeholder",
+    "employeeCount": 1000,
+    "followers": 5000,
+    "location": "Example City",
+    "cached": false,
+    "charged": true
+  }
+]

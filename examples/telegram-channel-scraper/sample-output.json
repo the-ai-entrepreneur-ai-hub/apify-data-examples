@@ -1,0 +1,14 @@
+[
+  {
+    "channel": "examplechannel",
+    "channelName": "Example Channel",
+    "messageId": 123,
+    "text": "Placeholder message text.",
+    "datetime": "2026-01-01T00:00:00+00:00",
+    "viewCount": 1000,
+    "author": null,
+    "forwardedFrom": null,
+    "messageUrl": "https://t.me/examplechannel/123",
+    "scrapedAt": "2026-01-01T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "fullName": "Jane Example",
+    "headline": "Chief Executive Officer at Example Corp",
+    "seniorityBand": "cxo",
+    "department": "executive",
+    "confidence": "high",
+    "charged": true,
+    "company": "Example Corp",
+    "location": "Example City",
+    "profileUrl": "https://www.linkedin.com/in/jane-example-placeholder",
+    "scrapedAt": "2026-01-01T00:00:00.000Z"
+  }
+]

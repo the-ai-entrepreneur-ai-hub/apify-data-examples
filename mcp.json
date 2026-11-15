@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "apify": {
+      "url": "https://mcp.apify.com/?tools=george.the.developer/linkedin-company-employees-scraper,george.the.developer/google-scholar-scraper,george.the.developer/linkedin-company-by-domain,george.the.developer/youtube-transcript-scraper,george.the.developer/telegram-channel-scraper,george.the.developer/linkedin-decision-makers-finder",
+      "headers": {
+        "Authorization": "Bearer YOUR_APIFY_TOKEN"
+      }
+    }
+  }
+}
